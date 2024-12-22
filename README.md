@@ -26,13 +26,13 @@ EDA involved exploring the data to answer questions such as:
 2. What is the average sales?
 3. What is the total number of items sold?
 4. What is the average rating?
-5. How does item fat content afferct sales?
-6. How item fat content and location type affects sales?
+5. How does item fat content affect sales?
+6. How do item fat content and location type affect sales?
 7. Which item type has the highest sales?
 8. What is the trend of sales based on the year of establishment?
 9. How does outlet size affect sales?
-10. What is the effect of outlet location of sales?
-11. How does the outlet type vary based on varios metrics?
+10. What is the effect of outlet location on sales?
+11. How does the outlet type vary based on various metrics?
 
 ## Results and findings 
 
