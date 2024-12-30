@@ -37,6 +37,18 @@ EDA involved exploring the data to answer questions such as:
 ## Results and findings 
 
 The report results are summarized as follows:
+- From 2011 to 2022, Blinkit has a record total sales of $ 1.20M.
+- The company's average sales is $ 140.99.
+- Blinkit has sold a total of 8,523 items from 2011 to 2022.
+- Blinkit has a rating of 3.97.
+- Items with low-fat content such as fruits and vegetables and snack foods, lead in sales by 64.60%.
+- Outlets established from 2012 to 2017 are stagnant. There was a notable peak in sales in outlets established in 2018 but in 2020 and 2022 dropped.
+- Medium-sized outlets lead in terms of sales while high-sized outlets record very small sales.
+- Tier 3 location records the highest sales while tier 1 location has the least sales.
+- Supermarket type 1 makes more sales.
+
+## Recommendations
+
 
 
 
