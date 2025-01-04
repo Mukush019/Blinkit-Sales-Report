@@ -49,6 +49,12 @@ The report results are summarized as follows:
 
 ## Recommendations
 
+Based on the report, I recommend the following actions:
+
+- Open more outlets in tier 3 location types and invest in low-fat content products like fruits and vegetables and snack foods as they have more sales.
+- The strategy used in establishing outlets in 2018 should be used consistently to increase sales.
+- The outlet size should be medium.
+- Supermarket type 1 is the most recommended outlet type as it makes more sales, sells the most number of items, and is the second best in average sales. 
 
 
 
