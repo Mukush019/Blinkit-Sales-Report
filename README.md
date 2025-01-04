@@ -2,7 +2,10 @@
 ---
 
 ## Project Overview 
-The goal of this report is to provide insights into the sales performance of Blinkit, an online grocery store based in India. By analyzing the sales data based on various dimensions, I seek to identify trends, make data driven recommendations, and gain a deeper understanding of the company's perfomance. 
+The goal of this report is to provide insights into the sales performance of Blinkit, an online grocery store based in India. By analyzing the sales data based on various dimensions, I seek to identify trends, make data driven recommendations, and gain a deeper understanding of the company's performance. 
+
+
+
 
 ## Data Sources 
 The primary dataset used for this analysis is the "Blinkit Grocery Dashboard.xlsx" file. The file contains four sheets. These are:-
