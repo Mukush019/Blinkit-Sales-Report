@@ -17,7 +17,7 @@ The primary dataset used for this analysis is the "Blinkit Grocery Dashboard.xls
 ## Tools 
 The only tool used in the creation of this report is **Excel** (*data cleaning, data analysis, and data visualization*).
 
-## Data preparation and Cleaning
+## Data Preparation and Cleaning
 1. Data loading and inspection
 2. Data cleaning and formatting
    - Item fat content had inconsistencies -LF and reg were replaced with Low Fat and regular respectively.
