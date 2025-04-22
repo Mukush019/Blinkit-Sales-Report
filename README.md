@@ -21,11 +21,11 @@ The only tool used in the creation of this report is **Excel** (*data cleaning, 
 1. Data loading and inspection
 2. Data cleaning and formatting
    - Item fat content had inconsistencies -LF and reg were replaced with Low Fat and regular, respectively.
-   - The data was then formated into a table "Blinkit_Grocery_Data".
+   - The data was then formatted into a table "Blinkit_Grocery_Data".
 
 ## Exploratory Data Analysis (EDA)
 EDA involved exploring the data to answer questions such as:
-1. What is the total sales?
+1. What are the total sales?
 2. What is the average sales?
 3. What is the total number of items sold?
 4. What is the average rating?
