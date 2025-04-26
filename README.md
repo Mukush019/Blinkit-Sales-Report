@@ -45,7 +45,7 @@ The report results are summarized as follows:
 - Blinkit has sold a total of 8,523 items from 2011 to 2022.
 - Blinkit has a rating of 3.97.
 - Items with low-fat content, such as fruits and vegetables and snack foods, led in sales by 64.60%.
-- Outlets established from 2012 to 2017 are stagnant. There was a notable peak in sales in outlets established in 2018 but in 2020 and 2022 dropped.
+- Outlets established from 2012 to 2017 are stagnant. There was a notable peak in sales in outlets established in 2018, but in 2020 and 2022 dropped.
 - Medium-sized outlets lead in terms of sales, while large-sized outlets record minimal sales.
 - Tier 3 location records the highest sales while Tier 1 location has the least sales.
 - Supermarket type 1 makes more sales.
@@ -54,7 +54,7 @@ The report results are summarized as follows:
 
 Based on the report, I recommend the following actions:
 
-- Open more outlets in tier 3 location types and invest in low-fat content products like fruits and vegetables and snack foods as they have more sales.
+- Open more outlets in tier 3 location types and invest in low-fat content products like fruits and vegetables, and snack foods, as they have more sales.
 - The strategy used in establishing outlets in 2018 should be used consistently to increase sales.
 - The outlet size should be medium.
 - Supermarket type 1 is the most recommended outlet type as it makes more sales, sells the most number of items, and is the second best in average sales. 
