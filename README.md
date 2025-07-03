@@ -8,23 +8,27 @@ The goal of this report is to provide insights into the sales performance of Bli
 ![Alt text](Dashboard.png)
 
 
-## Data Sources 
+## Data Sources
+
 The primary dataset used for this analysis is the "Blinkit Grocery Dashboard.xlsx" file. The file contains four sheets. These are:-
 - Raw Data Blinkit Grocery - contains the raw, uncleaned data.
 - Clean Blinkit Grocery - contains the clean and formatted data.
 - Pivot tables - the various pivot tables and charts.
 - Dashboard - final report.
 
-## Tools 
+## Tools
+
 The only tool used in the creation of this report is **Excel** (*data cleaning, data analysis, and data visualization*).
 
 ## Data Preparation and Cleaning
+
 1. Data loading and inspection
 2. Data cleaning and formatting
    - Item fat content had inconsistencies -LF and reg were replaced with Low Fat and regular, respectively.
    - The data was then formatted into a table "Blinkit_Grocery_Data".
 
 ## Exploratory Data Analysis (EDA)
+
 EDA involved exploring the data to answer questions such as:
 1. What are the total sales?
 2. What is the average sales?
