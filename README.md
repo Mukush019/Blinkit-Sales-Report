@@ -1,7 +1,8 @@
 # Blinkit Sales Report 
 ---
 
-## Project Overview 
+## Project Overview
+
 The goal of this report is to provide insights into the sales performance of Blinkit, an online grocery store based in India. By analyzing the sales data based on various dimensions, I seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance. 
 
 ![Alt text](Dashboard.png)
