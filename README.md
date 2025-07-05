@@ -9,6 +9,7 @@ The goal of this report is to provide insights into the sales performance of Bli
 
 
 ## Data Sources
+
 The primary dataset used for this analysis is the "Blinkit Grocery Dashboard.xlsx" file. The file contains four sheets. These are:-
 - Raw Data Blinkit Grocery - contains the raw, uncleaned data.
 - Clean Blinkit Grocery - contains the clean and formatted data.
